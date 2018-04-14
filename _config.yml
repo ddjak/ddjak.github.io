@@ -28,7 +28,7 @@ footer-links:
   rss: rss # just type anything here for a working RSS icon
   twitter: dragandjakovic
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/channel/UCoyDUqofWzaE8AMjpbUxwMA # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCoyDUqofWzaE8AMjpbUxwMA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
