@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Entrepreneur, programmer, lover of soft pretzels.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Node is my favorite. I've built apps in React, WordPress, and many flavors of JavaScript.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[management@dragandropdesign.com](mailto:management@dragandropdesign.com)
