@@ -8,7 +8,10 @@ Entrepreneur, programmer, lover of soft pretzels.
 
 ### More Information
 
-Node is my favorite. I've built apps in React, WordPress, and many flavors of JavaScript.
+Node.js is my favorite. I've built apps in React, WordPress, and many flavors of JavaScript.
+Machine learning is my long-term learning path.
+
+I run DraganDrop: a multimedia & marketing business supporting creative talent and helping businesses grow their brands.
 
 ### Contact me
 
