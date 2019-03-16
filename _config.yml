@@ -22,13 +22,13 @@ footer-links:
   facebook:
   flickr:
   github: ddjak
-  instagram: dragandjakovic
+  instagram: 
   linkedin:
   pinterest:
   rss: rss # just type anything here for a working RSS icon
-  twitter: dragandjakovic
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCoyDUqofWzaE8AMjpbUxwMA # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
